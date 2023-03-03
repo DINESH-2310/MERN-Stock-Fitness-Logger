@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@800&family=Orbitron:wght@800&family=Poppins:wght@300&display=swap');
+
+
+div.card-body.p-0{
+    margin-top:24rem,
+}
+
+img.img-fluid{
+    height: 34rem;
+    width:  auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+    
+
+div > #enter{
+   
+    width: auto;
+    height: auto;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0rem;
+}   
+
+#h3{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 3rem;
+    color: blue;
+
+}
+h7{
+    padding-left: 12rem;
+    margin:8px 4px 4px 4px;
+    margin-top: 3rem;
+}
+#34{
+    width: 12rem !important;
+}
+@media only screen and (min-width:800) {
+   
+}

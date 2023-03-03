@@ -1,0 +1,27 @@
+#profile-name{
+text-align: right;
+display: flex;
+flex-direction: row;
+margin-left: 80rem;
+margin-top: -3rem;
+
+}
+#profile-name>img{
+     height: 3rem;
+     width: auto;
+     border-radius: 100%;
+     padding-top: 3px;
+     align-items: right;
+     margin-left: 2rem;
+    
+}
+a.canvasjs-chart-credit{
+    color: white !important;
+   
+}
+canvasjs-chart-credit{
+    color: white !important;
+   
+}
+
+

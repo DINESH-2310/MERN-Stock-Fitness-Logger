@@ -1,0 +1,65 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Orbitron:wght@800&display=swap');
+
+
+.navbar-brand  > img{
+    height: 30px;
+    width: auto;
+    border-radius: 60%;
+    font-size: small;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(172, 172, 245);
+    min-zoom: 3px;
+
+   
+    
+}
+
+
+span{
+    color: coral;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-size: small;
+    
+}
+.navbar-brand{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(142, 142, 234);
+    justify-content: end;
+    }
+    .nav-item{
+        font-family: 'Kanit', sans-serif;
+        font-family: 'Orbitron', sans-serif;
+        
+        
+    }
+    .nav-item:hover{
+        background-color: greenyellow;
+        border-radius: 20px;
+    }
+    #signin{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 19px;
+        border-radius: 10px;
+        padding: 5px;
+        background-color: green;
+        font-weight: 300;
+        color: white;
+    }
+    
+    
+    #login{
+      
+         font-family: 'Times New Roman', Times, serif;
+        background-color: blue;
+        font-size: 19px;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 300;
+        color: white;
+    }
+       
+

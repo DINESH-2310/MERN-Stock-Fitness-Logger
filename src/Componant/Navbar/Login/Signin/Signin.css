@@ -1,0 +1,38 @@
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+    .container-py-5-h-100{
+        background-color: aqua;
+    }
+    #sigin{
+        background-color:white;
+justify-content: end;
+margin-top: 7rem;
+        
+    }
+    #sig{
+        height:auto;
+        box-shadow: 5px 5px 20px 0px black;
+        border-radius: 30px;
+    }
+    img > .img-fluids{
+        height: 30rem;
+    }
+@media screen and (max-width:601px) {
+    .column{
+        flex:50%;
+        max-width: 50%;
+
+    }
+    .container-py-5-h-100{
+        
+    }
+
+}
+   
