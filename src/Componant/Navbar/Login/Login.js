@@ -29,7 +29,7 @@ function Login() {
       }
 
       if (!values.password) {
-        error.password = "create password"
+        error.password = " Enter valid password"
       }
       else if (values.password.length < 6) {
         error.password = "Length greater than 6";
