@@ -35,6 +35,9 @@ function Signin(props) {
       if (!values.password) {
         error.password = "create password"
       }
+       else if (values.password.length < 6) {
+        error.password = "Length greater than 6";
+      }
       return error
     },
     onSubmit: async(values) => {
