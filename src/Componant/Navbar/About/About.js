@@ -26,7 +26,7 @@ function About() {
                     </p>
                 </div>
                 <div className='col-lg-6' id='aboutimg'>
-                <img src='https://stories.freepiklabs.com/storage/32059/Website-Creator-bro-01.svg'></img>
+                <img src='https://cdni.iconscout.com/illustration/premium/thumb/man-using-fitness-tracking-watch-5627323-4688093.png'></img>
                 </div>
             </div>
         </div>
