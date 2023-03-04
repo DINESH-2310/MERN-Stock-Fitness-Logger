@@ -40,10 +40,20 @@ function Login() {
 
       axios.post("https://mern-v51t.onrender.com/api/sigin", values)
         .then(res => {
+          toast.error('Welcome to FitPro', {
+            position: "top-right",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "dark",
+            });
           navigate("/portal/dashboard")
         })
         .catch(err => {
-          toast.error('🦄 Wow so easy!', {
+          toast.error('Password or Email Incorrect', {
             position: "top-right",
             autoClose: 5000,
             hideProgressBar: false,
