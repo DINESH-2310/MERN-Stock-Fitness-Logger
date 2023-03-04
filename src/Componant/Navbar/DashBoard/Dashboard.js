@@ -72,7 +72,7 @@ function Dashboard() {
             </h3>
           </div>
           <div className='col-lg-6'>
-            <img src='https://stories.freepiklabs.com/storage/31647/fitness.svg'></img>
+            <img src='https://img.freepik.com/free-vector/sport-fitness-tracker-abstract-concept-illustration-activity-band-health-monitor-wrist-worn-device-application-running-cycling-every-day-training_335657-643.jpg?w=360' />
           </div>
 
         </div>
@@ -81,7 +81,7 @@ function Dashboard() {
       <div className='container' >
         <div className='row'>
           <div className='col-lg-6'>
-            <img src='https://stories.freepiklabs.com/storage/36481/Fitness-stats-01.svg'></img>
+            <img className='w-60' src='https://img.freepik.com/premium-vector/online-mobile-app-sport-trainings-fitness-tracking-cartoon-vector-illustration-isolated_605858-641.jpg?w=500'></img>
           </div>
           <div className='col-lg-6' id='container-2'>
             <h2>Personalized exercise programs.</h2>
@@ -101,7 +101,7 @@ function Dashboard() {
             <h3> For Prime members we are proving personal trainer to guiding and make the records for foods,workouts,timetable. its help you to easy and Quik results</h3>
           </div>
           <div className='col-lg-6'>
-            <img src='https://stories.freepiklabs.com/storage/53550/Coaches-(1)_Mesa-de-trabajo-1.svg'></img>
+            <img className='' src='https://us.123rf.com/450wm/goodstudio/goodstudio2007/goodstudio200700262/151748858-male-personal-coach-giving-advice-on-nutrition-vector-flat-illustration-trainer-consult-man-to-body.jpg'></img>
           </div>
 
         </div>
