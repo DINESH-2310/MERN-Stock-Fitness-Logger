@@ -11,7 +11,7 @@ function Nav() {
   <div class="container-fluid">
   <a class="navbar-brand" href="#">
                     <img src="https://th.bing.com/th/id/OIP.nhFes2aoef2v5ouwrrdDzwHaHa?w=178&h=180&c=7&r=0&o=5&pid=1.7" alt="Logo" width="30" height="24" class="d-inline-block align-text-top" />
-                    Fitness<span>PRO</span>
+                    Fit<span>PRO</span>
                 </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
