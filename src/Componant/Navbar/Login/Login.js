@@ -108,7 +108,7 @@ function Login() {
                           <span style={{ color: "red" }}>{formik.errors.password}</span>
                           <input onChange={formik.handleChange}
                             value={formik.values.password} name="password" type="text" id="form3Example97" class="form-control form-control-lg" />
-                          <label class="form-label" for="form3Example97">Password</label>
+                          <label class="password" for="form3Example97">Password</label>
                         </div>
 
                         <button onClick={''} type="submit" class="btn btn-warning btn-lg ms-2">Login</button>
